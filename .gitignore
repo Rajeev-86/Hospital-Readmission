@@ -11,3 +11,4 @@ packages.txt
 helper_functions.py
 secrets.toml.template
 upload_to_huggingface.py
+*.ipynb
