@@ -1,0 +1,13 @@
+*.pkl
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.ipynb_checkpoints/
+*.md
+Sample.py
+packages.txt
+helper_functions.py
+secrets.toml.template
+upload_to_huggingface.py
