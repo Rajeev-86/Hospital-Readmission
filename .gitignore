@@ -5,7 +5,6 @@ __pycache__/
 .env
 .DS_Store
 *.ipynb_checkpoints/
-*.md
 Sample.py
 packages.txt
 helper_functions.py
