@@ -215,6 +215,7 @@ Hospital-Readmission/
 ├── requirements.txt                          # Python dependencies
 ├── .streamlit
     └──config.toml                            # Streamlit Webapp congigs
+├── .gitignore
 ├── README.md
 └── LICENSE                                   # MIT License
 ```
